@@ -1,4 +1,4 @@
-# vueapp
+# Shopping Cart
 
 ## Project setup
 ```
